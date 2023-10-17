@@ -1,0 +1,1 @@
+import{_ as e,o,c as n}from"./index-54c2cc17.js";const _={name:"TheButton",props:["text"]},c=["value"];function s(a,p,t,u,r,d){return o(),n("input",{type:"button",value:t.text},null,8,c)}const i=e(_,[["render",s],["__scopeId","data-v-cd9b69c1"]]);export{i as T};
